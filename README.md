@@ -1,7 +1,6 @@
-# ClickTech: An eCommerce Platform
+# ClickTech: An E-Commerce Platform
 
-> eCommerce platform built with the MERN stack & Redux.
-
+> THis is a MERN Stack E-Commerce Website including various features such as product listings, shopping cart functionality, user authentication, payment integration, and more
 
 <!-- toc -->
 
