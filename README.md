@@ -5,6 +5,7 @@
 <!-- toc -->
 
 - [Features](#features)
+- [Built With][#built-with]
 - [Usage](#usage)
   - [Env Variables](#env-variables)
   - [Install Dependencies (frontend & backend)](#install-dependencies-frontend--backend)
@@ -28,6 +29,18 @@
 - Checkout process (shipping, payment method, etc)
 - PayPal / credit card integration
 - Database seeder (products & users)
+
+## Built with
+
+- NodeJs
+- Express
+- ReactJs
+- Redux
+- MongoDb
+- React Hooks
+- React Bootstrap
+- Bcrypt
+- JSON Web Tokens
 
 ## Usage
 
