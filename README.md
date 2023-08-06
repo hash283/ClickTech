@@ -5,7 +5,7 @@
 <!-- toc -->
 
 - [Features](#features)
-- [Built With][#built-with]
+- [Built with](#built-with)
 - [Usage](#usage)
   - [Env Variables](#env-variables)
   - [Install Dependencies (frontend & backend)](#install-dependencies-frontend--backend)
