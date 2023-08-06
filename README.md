@@ -1,6 +1,6 @@
 # ClickTech: An E-Commerce Platform
 
-> THis is a MERN Stack E-Commerce Website including various features such as product listings, shopping cart functionality, user authentication, payment integration, and more
+> This is a MERN (MongoDb, ExpressJs, ReactJs, Nodejs) Stack E-Commerce Website including various features such as product listings, shopping cart functionality, user authentication, payment integration, and more
 
 <!-- toc -->
 
